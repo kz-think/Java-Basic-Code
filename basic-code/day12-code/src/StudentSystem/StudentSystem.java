@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class StudenSystem {
+public class StudentSystem {
     public static void main(String[] args) {
         userInterface();
     }
