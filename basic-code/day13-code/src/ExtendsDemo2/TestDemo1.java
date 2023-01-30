@@ -7,6 +7,10 @@ public class TestDemo1 {
         h.destroy();
         Teddy t = new Teddy();
         t.cuddle();
+        h.watch();
+        t.eat();
+
+
 
 
 
